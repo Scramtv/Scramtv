@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is my readme, github said i had to have one, to apply for the student discount thing. So here it is...
 <!--
 **Scramtv/Scramtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
